@@ -28,3 +28,4 @@ conf/dialogflow/*.json
 #ignore .openai_env file
 conf/openai/.openai_env
 
+venv_sic/bin/activate

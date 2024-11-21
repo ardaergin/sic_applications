@@ -29,3 +29,4 @@ conf/dialogflow/*.json
 conf/openai/.openai_env
 
 venv_sic/bin/activate
+/venv_sic

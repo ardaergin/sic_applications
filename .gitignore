@@ -30,3 +30,5 @@ conf/openai/.openai_env
 
 venv_sic/bin/activate
 /venv_sic
+/Socially-Intelligent-Robotics
+.DS_Store

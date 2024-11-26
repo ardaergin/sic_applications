@@ -33,3 +33,4 @@ venv_sic/bin/activate
 /Socially-Intelligent-Robotics
 .DS_Store
 .venv/bin/activate
+/.venv
